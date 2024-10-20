@@ -17,7 +17,7 @@
     - Jazz: "three pieces that you feel best exemplify your talent"; contrasting pieces
 - Contacts:
   * Stephen Campbell, Director of Admissions
-    - email: Stephen.L.Campbell@du,.edu
+    - email: Stephen.L.Campbell@du.edu
     - phone: 303-871-6950
   * Andrew Ferdig, Enrollment Specialist
     - email: Andrew.Ferdig@du.edu
@@ -78,7 +78,7 @@
   * Bachelor of Music Education
   * Bachelor of Music in Performance
 - Application Deadlines:
-  * EA/ED: 11/11/24
+  * EA/ED: 11/1/24
   * RD: 1/15/25
 - Audition Deadlines:
   * EA/ED: 11/9/24
